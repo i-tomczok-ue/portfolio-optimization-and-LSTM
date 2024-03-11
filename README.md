@@ -29,6 +29,8 @@ This project underscores the significance of data-driven decision-making in inve
 
 ## Credits
 This project would not have been possible without the knowledge gained from the following articles:
+* https://builtin.com/data-science/portfolio-optimization-python
+* https://medium.com/@phindulo60/portfolio-optimization-with-python-mean-variance-optimization-mvo-and-markowitzs-efficient-64acb3b61ef6
 * https://www.analyticsvidhya.com/blog/2018/10/predicting-stock-price-machine-learningnd-deep-learning-techniques-python/
 * https://towardsdatascience.com/time-series-forecasting-with-recurrent-neural-networks-74674e289816
 * https://www.kaggle.com/code/faressayah/stock-market-analysis-prediction-using-lstm
